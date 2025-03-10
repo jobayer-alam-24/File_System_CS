@@ -17,11 +17,53 @@ public class HomeController : Controller
         //Directory.GetFiles() - returns an array of files from specified path (Folder).
         string[] getFiles = Directory.GetFiles(Path.Combine(_environment.WebRootPath, "Files"));
         List<FileData> filesNames = new List<FileData>();
-        for(int i = 0; i < getFiles.Length; i++)
+        for (int i = 0; i < getFiles.Length; i++)
         {
-            filesNames.Add(new FileData(){No = i + 1, Name = Path.GetFileName(getFiles[i])});
+            filesNames.Add(new FileData() { No = i + 1, Name = Path.GetFileName(getFiles[i]) });
         }
         return View(filesNames);
+    }
+    public IActionResult Create()
+    {
+        return View();
+    }
+    [HttpPost]
+    public async Task<IActionResult> Create([FromForm] IFormFile file)
+    {
+        if (file != null && file.Length > 0)
+        {
+            string path = Path.Combine(_environment.WebRootPath, "Files/", file.FileName);
+            string extension = Path.GetExtension(path);
+            if (extension.Equals(".pdf") || extension.Equals(".docx") || extension.Equals(".pptx") || extension.Equals(".xlsx"))
+            {
+                if (!System.IO.File.Exists(path))
+                {
+                    using (var stream = new FileStream(path, FileMode.CreateNew, FileAccess.ReadWrite, FileShare.Read))
+                    {
+                        await file.CopyToAsync(stream);
+                    }
+                }
+                else
+                {
+                    using (var stream = new FileStream(path, FileMode.Truncate, FileAccess.ReadWrite, FileShare.Read))
+                    {
+                        await file.CopyToAsync(stream);
+                    }
+                }
+            }
+            else
+            {
+                ViewBag.typeError = "File Extension must be: .pdf, .docx, .pptx, .xlsx";
+                return View();
+            }
+        }
+        else
+        {
+            ViewBag.notUploaded = "Please! Upload a file.";
+            return View();
+        }
+        TempData["success"] = "FILE Uploaded Successfully!";
+        return RedirectToAction(nameof(Index));
     }
     public async Task<FileResult> Download(string name)
     {
@@ -35,7 +77,6 @@ public class HomeController : Controller
         FileInfo info = new FileInfo(path);
         return View(info);
     }
-
     public IActionResult Privacy()
     {
         return View();

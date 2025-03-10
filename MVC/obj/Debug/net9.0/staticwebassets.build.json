@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KA9hBI34JKZsZ8rL+FFWPLgsvi0mi/PzvytpnUA/F5w=",
+  "Hash": "Y3AwXeSDzEIgC43HyaiXICQp3C1gn5xmWd2rbiPqYeE=",
   "Source": "MVC",
   "BasePath": "_content/MVC",
   "Mode": "Default",
@@ -1592,27 +1592,6 @@
       "OriginalItemSpec": "wwwroot\\Files\\3. Syntax and Datatypes.pdf"
     },
     {
-      "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\4. Keywords, variables, constant, type casting, userinputs.pdf",
-      "SourceId": "MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\File_System_CS\\MVC\\wwwroot\\",
-      "BasePath": "_content/MVC",
-      "RelativePath": "Files/4. Keywords, variables, constant, type casting, userinputs#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "yynfnsn90d",
-      "Integrity": "5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\4. Keywords, variables, constant, type casting, userinputs.pdf"
-    },
-    {
       "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\7.Conditional Statements.pdf",
       "SourceId": "MVC",
       "SourceType": "Discovered",
@@ -1632,27 +1611,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Files\\7.Conditional Statements.pdf"
-    },
-    {
-      "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\8. Loops, for, while, do-while ...pdf",
-      "SourceId": "MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\File_System_CS\\MVC\\wwwroot\\",
-      "BasePath": "_content/MVC",
-      "RelativePath": "Files/8. Loops, for, while, do-while ..#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "s59y2anlco",
-      "Integrity": "4LynJxEuR5JmgnfJTb6bIvc0WctMYSwsevTpvCg/T7Y=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Files\\8. Loops, for, while, do-while ...pdf"
     },
     {
       "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\biodata.docx",
@@ -3703,7 +3661,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Jun 2024 23:15:58 GMT"
+          "Value": "Mon, 10 Mar 2025 18:37:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3748,7 +3706,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Jun 2024 23:15:58 GMT"
+          "Value": "Mon, 10 Mar 2025 18:37:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3785,7 +3743,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 09 Jul 2024 13:02:12 GMT"
+          "Value": "Mon, 10 Mar 2025 18:41:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3830,7 +3788,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 09 Jul 2024 13:02:12 GMT"
+          "Value": "Mon, 10 Mar 2025 18:41:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3949,7 +3907,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 Aug 2024 04:35:58 GMT"
+          "Value": "Mon, 10 Mar 2025 18:41:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3986,7 +3944,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 Aug 2024 04:35:58 GMT"
+          "Value": "Mon, 10 Mar 2025 18:41:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4031,7 +3989,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Jun 2024 16:26:28 GMT"
+          "Value": "Mon, 10 Mar 2025 18:37:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4076,7 +4034,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Jun 2024 16:26:28 GMT"
+          "Value": "Mon, 10 Mar 2025 18:37:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4195,7 +4153,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Jun 2024 16:51:22 GMT"
+          "Value": "Mon, 10 Mar 2025 18:43:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4232,7 +4190,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Jun 2024 16:51:22 GMT"
+          "Value": "Mon, 10 Mar 2025 18:43:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4251,88 +4209,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-BMazL7WgBmO/x891GOTOZDM3Uz9ia4E5xgM0C2Ny4TE="
-        }
-      ]
-    },
-    {
-      "Route": "Files/4. Keywords, variables, constant, type casting, userinputs.pdf",
-      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\4. Keywords, variables, constant, type casting, userinputs.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "283885"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Jun 2024 09:08:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ="
-        }
-      ]
-    },
-    {
-      "Route": "Files/4. Keywords, variables, constant, type casting, userinputs.yynfnsn90d.pdf",
-      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\4. Keywords, variables, constant, type casting, userinputs.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "283885"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Jun 2024 09:08:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "yynfnsn90d"
-        },
-        {
-          "Name": "label",
-          "Value": "Files/4. Keywords, variables, constant, type casting, userinputs.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ="
         }
       ]
     },
@@ -4359,7 +4235,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Jun 2024 03:39:52 GMT"
+          "Value": "Mon, 10 Mar 2025 18:39:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4404,7 +4280,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Jun 2024 03:39:52 GMT"
+          "Value": "Mon, 10 Mar 2025 18:39:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4415,88 +4291,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-VX9RkMKivSbarrjgcra/e6UuVAWW4Tytk+rcvVA2Igk="
-        }
-      ]
-    },
-    {
-      "Route": "Files/8. Loops, for, while, do-while ...pdf",
-      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\8. Loops, for, while, do-while ...pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "399891"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4LynJxEuR5JmgnfJTb6bIvc0WctMYSwsevTpvCg/T7Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 16 Jul 2024 05:17:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4LynJxEuR5JmgnfJTb6bIvc0WctMYSwsevTpvCg/T7Y="
-        }
-      ]
-    },
-    {
-      "Route": "Files/8. Loops, for, while, do-while ...s59y2anlco.pdf",
-      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\8. Loops, for, while, do-while ...pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "399891"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4LynJxEuR5JmgnfJTb6bIvc0WctMYSwsevTpvCg/T7Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 16 Jul 2024 05:17:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s59y2anlco"
-        },
-        {
-          "Name": "label",
-          "Value": "Files/8. Loops, for, while, do-while ...pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-4LynJxEuR5JmgnfJTb6bIvc0WctMYSwsevTpvCg/T7Y="
         }
       ]
     },

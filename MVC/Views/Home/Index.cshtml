@@ -2,7 +2,17 @@
 @{
     ViewData["Title"] = "File System";
 }
-<h1 class="text-center text-primary my-4">File Data</h1>
+@if(TempData["success"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["success"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+<h1 class="text-center text-primary my-4">File Data @ViewData["name"]</h1>
+<div class="my-4">
+    <a class="btn btn-primary" href="@Url.Action("Create", "Home")">Create New File</a>
+</div>
 <div class="table-responsive mt-5">
     <table class="table table-hover table-borderless table-dark align-middle">
         <thead class="table-dark">

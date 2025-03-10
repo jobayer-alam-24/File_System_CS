@@ -1,0 +1,26 @@
+@{
+    ViewData["Title"] = "Create a File";
+}
+@if(ViewBag.notUploaded != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        @ViewBag.notUploaded
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@if(ViewBag.typeError != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        @ViewBag.typeError
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+<h2 class="text-center my-4">Create a File</h2>
+<div class="mb-4">
+    <form asp-action="Create" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <input type="file" class="form-control" id="file" name="file" />
+        </div>
+        <button type="submit" class="btn btn-primary mt-2">Upload</button>
+    </form>
+</div>

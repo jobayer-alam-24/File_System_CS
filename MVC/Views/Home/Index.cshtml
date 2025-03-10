@@ -1,29 +1,29 @@
-﻿@{
+﻿@model List<FileData>
+@{
     ViewData["Title"] = "File System";
 }
-
 <h1 class="text-center text-primary my-4">File Data</h1>
-<div
-    class="table-responsive mt-5"
->
-    <table
-        class="table table-hover table-borderless table-dark align-middle"
-    >
-        <thead class="table-dark text-center">
+<div class="table-responsive mt-5">
+    <table class="table table-hover table-borderless table-dark align-middle">
+        <thead class="table-dark">
             <tr>
+                <th class="text-center">No</th>
                 <th>File Name</th>
-                <th>Action</th>
+                <th class="text-center">Action</th>
             </tr>
         </thead>
         <tbody class="table-group-divider">
-            <tr class="table-light text-center">
-                <td>Item</td>
-                <td>Item</td>
-            </tr>
-            <tr class="table-light text-center">
-                <td>Download</td>
-                <td>Details</td>
-            </tr>
+            @foreach(var file in Model)
+            {
+                <tr class="table-light">
+                    <td class="text-center">@file.No</td>
+                    <td class="text-danger text-left">@file.Name</td>
+                    <td class="text-center">
+                        <a class="text-primary" href="@Url.Action("Details", "Home", new { name = file.Name })">Details</a> ||
+                         <a class="text-info" href="@Url.Action("Download", "Home", new { name = file.Name })">Download</a>
+                    </td>
+                </tr>
+            }
         </tbody>
     </table>
 </div>

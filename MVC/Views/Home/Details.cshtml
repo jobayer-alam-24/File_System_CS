@@ -1,0 +1,20 @@
+@model FileInfo
+@{
+    ViewData["Title"] = "File Details";
+}
+<div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title mb-3 text-white text-center">File Details</h5>
+        <h6 class="card-subtitle mb-2 text-white">File Name: @Model.Name</h6>
+        <p class="card-text">File Size: @Model.Length bytes</p>
+        <p class="card-text">Creation Time: @Model.CreationTimeUtc.ToShortDateString()</p>
+        <p class="card-text">Last Access Time: @Model.LastAccessTimeUtc.ToShortDateString()</p>
+        <p class="card-text">Last Write Time: @Model.LastWriteTimeUtc.ToShortDateString()</p>
+    </div>
+    <div class="card-footer text-white text-center">
+        <h4>
+            <a class="text-center text-white text-decoration-none" asp-action="Index">Back</a>
+        </h4>
+    </div>
+</div>
+

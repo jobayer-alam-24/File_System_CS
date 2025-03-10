@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uMJPMppZS8ywbx+r6sJAeW/pFC29Ye/4IT5nE0SSYe8=",
+  "Hash": "KA9hBI34JKZsZ8rL+FFWPLgsvi0mi/PzvytpnUA/F5w=",
   "Source": "MVC",
   "BasePath": "_content/MVC",
   "Mode": "Default",
@@ -1445,6 +1445,216 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\1. Introduction.pdf",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\File_System_CS\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "Files/1. Introduction#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4p78lz06fz",
+      "Integrity": "+PnktvRM8kB2EVrTSuabVpKF+M7XkWWnqG3+jmdMI+w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\1. Introduction.pdf"
+    },
+    {
+      "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\10. Array (Part-01).pdf",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\File_System_CS\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "Files/10. Array (Part-01)#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2b0ckzvq6w",
+      "Integrity": "jvzo+EUFhpR9qPui7LpakrWALIi0zyN7ByKX/HVl+Ec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\10. Array (Part-01).pdf"
+    },
+    {
+      "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\13. Strings.pdf",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\File_System_CS\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "Files/13. Strings#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e4367w36pd",
+      "Integrity": "shN0KDhNuzfDMzR5pTu227Jek/i5NZDr11efmxtI8Io=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\13. Strings.pdf"
+    },
+    {
+      "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\19. Access Specifier and Encapsulation.pdf",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\File_System_CS\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "Files/19. Access Specifier and Encapsulation#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vgar82a10d",
+      "Integrity": "v52OhzQdzzkk7aS7/xnfuywc/zAS7zu4ZdpR8f+Ld2M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\19. Access Specifier and Encapsulation.pdf"
+    },
+    {
+      "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\2. Environtment Setup.pdf",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\File_System_CS\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "Files/2. Environtment Setup#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f58osrnc3g",
+      "Integrity": "Q5dGEYXQbERFedp9i4hej3pINHJ40MG0klYGn2Tv17g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\2. Environtment Setup.pdf"
+    },
+    {
+      "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\20. Inheritence and Abstraction.pdf",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\File_System_CS\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "Files/20. Inheritence and Abstraction#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4rgxg58e0c",
+      "Integrity": "EBd3xGn6UP8lV3RfNHemR1dWNjrKsUxKHLmuZe7m8Pw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\20. Inheritence and Abstraction.pdf"
+    },
+    {
+      "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\3. Syntax and Datatypes.pdf",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\File_System_CS\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "Files/3. Syntax and Datatypes#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "swihst1e7o",
+      "Integrity": "BMazL7WgBmO/x891GOTOZDM3Uz9ia4E5xgM0C2Ny4TE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\3. Syntax and Datatypes.pdf"
+    },
+    {
+      "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\4. Keywords, variables, constant, type casting, userinputs.pdf",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\File_System_CS\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "Files/4. Keywords, variables, constant, type casting, userinputs#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yynfnsn90d",
+      "Integrity": "5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\4. Keywords, variables, constant, type casting, userinputs.pdf"
+    },
+    {
+      "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\7.Conditional Statements.pdf",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\File_System_CS\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "Files/7.Conditional Statements#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nl2q14cg7a",
+      "Integrity": "VX9RkMKivSbarrjgcra/e6UuVAWW4Tytk+rcvVA2Igk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\7.Conditional Statements.pdf"
+    },
+    {
+      "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\8. Loops, for, while, do-while ...pdf",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\File_System_CS\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "Files/8. Loops, for, while, do-while ..#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s59y2anlco",
+      "Integrity": "4LynJxEuR5JmgnfJTb6bIvc0WctMYSwsevTpvCg/T7Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\8. Loops, for, while, do-while ...pdf"
+    },
+    {
       "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\biodata.docx",
       "SourceId": "MVC",
       "SourceType": "Discovered",
@@ -1466,6 +1676,48 @@
       "OriginalItemSpec": "wwwroot\\Files\\biodata.docx"
     },
     {
+      "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\case.png",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\File_System_CS\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "Files/case#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xpqjxl2zgw",
+      "Integrity": "+9zjU65Kp5HlhK9D6308Iu2nbEvdjHvkSnluWelBNVk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\case.png"
+    },
+    {
+      "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\Class and Objects.pdf",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\File_System_CS\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "Files/Class and Objects#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4noxzv6j43",
+      "Integrity": "AAZUOiytugfbxrrAlwefLluiHMrWtgvCiBRkAqQ4/hw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Class and Objects.pdf"
+    },
+    {
       "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\membersdata.xlsx",
       "SourceId": "MVC",
       "SourceType": "Discovered",
@@ -1485,6 +1737,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Files\\membersdata.xlsx"
+    },
+    {
+      "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\Methods.pdf",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\File_System_CS\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "Files/Methods#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8iztkqg5ty",
+      "Integrity": "ANVH6v51QnMqsbDA4QAndcmd9zGuGaUn6l6+M+dE8/o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Methods.pdf"
     },
     {
       "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\ourpresentation.pptx",
@@ -3408,6 +3681,826 @@
       ]
     },
     {
+      "Route": "Files/1. Introduction.4p78lz06fz.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\1. Introduction.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "549644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+PnktvRM8kB2EVrTSuabVpKF+M7XkWWnqG3+jmdMI+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Jun 2024 23:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4p78lz06fz"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/1. Introduction.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+PnktvRM8kB2EVrTSuabVpKF+M7XkWWnqG3+jmdMI+w="
+        }
+      ]
+    },
+    {
+      "Route": "Files/1. Introduction.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\1. Introduction.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "549644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+PnktvRM8kB2EVrTSuabVpKF+M7XkWWnqG3+jmdMI+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Jun 2024 23:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+PnktvRM8kB2EVrTSuabVpKF+M7XkWWnqG3+jmdMI+w="
+        }
+      ]
+    },
+    {
+      "Route": "Files/10. Array (Part-01).2b0ckzvq6w.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\10. Array (Part-01).pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "806392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jvzo+EUFhpR9qPui7LpakrWALIi0zyN7ByKX/HVl+Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 13:02:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2b0ckzvq6w"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/10. Array (Part-01).pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jvzo+EUFhpR9qPui7LpakrWALIi0zyN7ByKX/HVl+Ec="
+        }
+      ]
+    },
+    {
+      "Route": "Files/10. Array (Part-01).pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\10. Array (Part-01).pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "806392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jvzo+EUFhpR9qPui7LpakrWALIi0zyN7ByKX/HVl+Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 13:02:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jvzo+EUFhpR9qPui7LpakrWALIi0zyN7ByKX/HVl+Ec="
+        }
+      ]
+    },
+    {
+      "Route": "Files/13. Strings.e4367w36pd.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\13. Strings.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "689730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"shN0KDhNuzfDMzR5pTu227Jek/i5NZDr11efmxtI8Io=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 15 Jul 2024 06:52:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e4367w36pd"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/13. Strings.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-shN0KDhNuzfDMzR5pTu227Jek/i5NZDr11efmxtI8Io="
+        }
+      ]
+    },
+    {
+      "Route": "Files/13. Strings.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\13. Strings.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "689730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"shN0KDhNuzfDMzR5pTu227Jek/i5NZDr11efmxtI8Io=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 15 Jul 2024 06:52:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-shN0KDhNuzfDMzR5pTu227Jek/i5NZDr11efmxtI8Io="
+        }
+      ]
+    },
+    {
+      "Route": "Files/19. Access Specifier and Encapsulation.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\19. Access Specifier and Encapsulation.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "465596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v52OhzQdzzkk7aS7/xnfuywc/zAS7zu4ZdpR8f+Ld2M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Aug 2024 04:35:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v52OhzQdzzkk7aS7/xnfuywc/zAS7zu4ZdpR8f+Ld2M="
+        }
+      ]
+    },
+    {
+      "Route": "Files/19. Access Specifier and Encapsulation.vgar82a10d.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\19. Access Specifier and Encapsulation.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "465596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v52OhzQdzzkk7aS7/xnfuywc/zAS7zu4ZdpR8f+Ld2M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Aug 2024 04:35:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vgar82a10d"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/19. Access Specifier and Encapsulation.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v52OhzQdzzkk7aS7/xnfuywc/zAS7zu4ZdpR8f+Ld2M="
+        }
+      ]
+    },
+    {
+      "Route": "Files/2. Environtment Setup.f58osrnc3g.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\2. Environtment Setup.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "371593"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q5dGEYXQbERFedp9i4hej3pINHJ40MG0klYGn2Tv17g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Jun 2024 16:26:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f58osrnc3g"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/2. Environtment Setup.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q5dGEYXQbERFedp9i4hej3pINHJ40MG0klYGn2Tv17g="
+        }
+      ]
+    },
+    {
+      "Route": "Files/2. Environtment Setup.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\2. Environtment Setup.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "371593"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q5dGEYXQbERFedp9i4hej3pINHJ40MG0klYGn2Tv17g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Jun 2024 16:26:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q5dGEYXQbERFedp9i4hej3pINHJ40MG0klYGn2Tv17g="
+        }
+      ]
+    },
+    {
+      "Route": "Files/20. Inheritence and Abstraction.4rgxg58e0c.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\20. Inheritence and Abstraction.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "574708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EBd3xGn6UP8lV3RfNHemR1dWNjrKsUxKHLmuZe7m8Pw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Sep 2024 09:49:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4rgxg58e0c"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/20. Inheritence and Abstraction.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EBd3xGn6UP8lV3RfNHemR1dWNjrKsUxKHLmuZe7m8Pw="
+        }
+      ]
+    },
+    {
+      "Route": "Files/20. Inheritence and Abstraction.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\20. Inheritence and Abstraction.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "574708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EBd3xGn6UP8lV3RfNHemR1dWNjrKsUxKHLmuZe7m8Pw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Sep 2024 09:49:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EBd3xGn6UP8lV3RfNHemR1dWNjrKsUxKHLmuZe7m8Pw="
+        }
+      ]
+    },
+    {
+      "Route": "Files/3. Syntax and Datatypes.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\3. Syntax and Datatypes.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "500861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BMazL7WgBmO/x891GOTOZDM3Uz9ia4E5xgM0C2Ny4TE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Jun 2024 16:51:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BMazL7WgBmO/x891GOTOZDM3Uz9ia4E5xgM0C2Ny4TE="
+        }
+      ]
+    },
+    {
+      "Route": "Files/3. Syntax and Datatypes.swihst1e7o.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\3. Syntax and Datatypes.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "500861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BMazL7WgBmO/x891GOTOZDM3Uz9ia4E5xgM0C2Ny4TE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Jun 2024 16:51:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "swihst1e7o"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/3. Syntax and Datatypes.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BMazL7WgBmO/x891GOTOZDM3Uz9ia4E5xgM0C2Ny4TE="
+        }
+      ]
+    },
+    {
+      "Route": "Files/4. Keywords, variables, constant, type casting, userinputs.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\4. Keywords, variables, constant, type casting, userinputs.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "283885"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Jun 2024 09:08:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ="
+        }
+      ]
+    },
+    {
+      "Route": "Files/4. Keywords, variables, constant, type casting, userinputs.yynfnsn90d.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\4. Keywords, variables, constant, type casting, userinputs.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "283885"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Jun 2024 09:08:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yynfnsn90d"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/4. Keywords, variables, constant, type casting, userinputs.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ="
+        }
+      ]
+    },
+    {
+      "Route": "Files/7.Conditional Statements.nl2q14cg7a.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\7.Conditional Statements.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "453387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VX9RkMKivSbarrjgcra/e6UuVAWW4Tytk+rcvVA2Igk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Jun 2024 03:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nl2q14cg7a"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/7.Conditional Statements.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VX9RkMKivSbarrjgcra/e6UuVAWW4Tytk+rcvVA2Igk="
+        }
+      ]
+    },
+    {
+      "Route": "Files/7.Conditional Statements.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\7.Conditional Statements.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "453387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VX9RkMKivSbarrjgcra/e6UuVAWW4Tytk+rcvVA2Igk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Jun 2024 03:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VX9RkMKivSbarrjgcra/e6UuVAWW4Tytk+rcvVA2Igk="
+        }
+      ]
+    },
+    {
+      "Route": "Files/8. Loops, for, while, do-while ...pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\8. Loops, for, while, do-while ...pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "399891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4LynJxEuR5JmgnfJTb6bIvc0WctMYSwsevTpvCg/T7Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Jul 2024 05:17:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4LynJxEuR5JmgnfJTb6bIvc0WctMYSwsevTpvCg/T7Y="
+        }
+      ]
+    },
+    {
+      "Route": "Files/8. Loops, for, while, do-while ...s59y2anlco.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\8. Loops, for, while, do-while ...pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "399891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4LynJxEuR5JmgnfJTb6bIvc0WctMYSwsevTpvCg/T7Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Jul 2024 05:17:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s59y2anlco"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/8. Loops, for, while, do-while ...pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4LynJxEuR5JmgnfJTb6bIvc0WctMYSwsevTpvCg/T7Y="
+        }
+      ]
+    },
+    {
       "Route": "Files/biodata.docx",
       "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\biodata.docx",
       "Selectors": [],
@@ -3490,6 +4583,170 @@
       ]
     },
     {
+      "Route": "Files/case.png",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\case.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+9zjU65Kp5HlhK9D6308Iu2nbEvdjHvkSnluWelBNVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 Aug 2024 14:34:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+9zjU65Kp5HlhK9D6308Iu2nbEvdjHvkSnluWelBNVk="
+        }
+      ]
+    },
+    {
+      "Route": "Files/case.xpqjxl2zgw.png",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\case.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+9zjU65Kp5HlhK9D6308Iu2nbEvdjHvkSnluWelBNVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 Aug 2024 14:34:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xpqjxl2zgw"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/case.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+9zjU65Kp5HlhK9D6308Iu2nbEvdjHvkSnluWelBNVk="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Class and Objects.4noxzv6j43.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\Class and Objects.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "605325"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AAZUOiytugfbxrrAlwefLluiHMrWtgvCiBRkAqQ4/hw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 Aug 2024 06:32:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4noxzv6j43"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Class and Objects.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AAZUOiytugfbxrrAlwefLluiHMrWtgvCiBRkAqQ4/hw="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Class and Objects.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\Class and Objects.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "605325"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AAZUOiytugfbxrrAlwefLluiHMrWtgvCiBRkAqQ4/hw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 Aug 2024 06:32:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AAZUOiytugfbxrrAlwefLluiHMrWtgvCiBRkAqQ4/hw="
+        }
+      ]
+    },
+    {
       "Route": "Files/membersdata.bh95yvo82s.xlsx",
       "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\membersdata.xlsx",
       "Selectors": [],
@@ -3568,6 +4825,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-wYJtI73fSuGcmMqk3PQ0FZuVOQLruPROxNBnGLfDI70="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Methods.8iztkqg5ty.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\Methods.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "558015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ANVH6v51QnMqsbDA4QAndcmd9zGuGaUn6l6+M+dE8/o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 31 Jul 2024 02:50:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8iztkqg5ty"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Methods.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ANVH6v51QnMqsbDA4QAndcmd9zGuGaUn6l6+M+dE8/o="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Methods.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\Methods.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "558015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ANVH6v51QnMqsbDA4QAndcmd9zGuGaUn6l6+M+dE8/o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 31 Jul 2024 02:50:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ANVH6v51QnMqsbDA4QAndcmd9zGuGaUn6l6+M+dE8/o="
         }
       ]
     },

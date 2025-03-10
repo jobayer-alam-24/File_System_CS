@@ -3,6 +3,990 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
+      "Route": "Files/1. Introduction.4p78lz06fz.pdf",
+      "AssetFile": "Files/1. Introduction.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "549644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+PnktvRM8kB2EVrTSuabVpKF+M7XkWWnqG3+jmdMI+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Jun 2024 23:15:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4p78lz06fz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+PnktvRM8kB2EVrTSuabVpKF+M7XkWWnqG3+jmdMI+w="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/1. Introduction.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Files/1. Introduction.pdf",
+      "AssetFile": "Files/1. Introduction.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "549644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+PnktvRM8kB2EVrTSuabVpKF+M7XkWWnqG3+jmdMI+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Jun 2024 23:15:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+PnktvRM8kB2EVrTSuabVpKF+M7XkWWnqG3+jmdMI+w="
+        }
+      ]
+    },
+    {
+      "Route": "Files/10. Array (Part-01).2b0ckzvq6w.pdf",
+      "AssetFile": "Files/10. Array (Part-01).pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "806392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jvzo+EUFhpR9qPui7LpakrWALIi0zyN7ByKX/HVl+Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 13:02:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2b0ckzvq6w"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jvzo+EUFhpR9qPui7LpakrWALIi0zyN7ByKX/HVl+Ec="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/10. Array (Part-01).pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Files/10. Array (Part-01).pdf",
+      "AssetFile": "Files/10. Array (Part-01).pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "806392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jvzo+EUFhpR9qPui7LpakrWALIi0zyN7ByKX/HVl+Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 13:02:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jvzo+EUFhpR9qPui7LpakrWALIi0zyN7ByKX/HVl+Ec="
+        }
+      ]
+    },
+    {
+      "Route": "Files/13. Strings.e4367w36pd.pdf",
+      "AssetFile": "Files/13. Strings.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "689730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"shN0KDhNuzfDMzR5pTu227Jek/i5NZDr11efmxtI8Io=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 15 Jul 2024 06:52:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e4367w36pd"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-shN0KDhNuzfDMzR5pTu227Jek/i5NZDr11efmxtI8Io="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/13. Strings.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Files/13. Strings.pdf",
+      "AssetFile": "Files/13. Strings.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "689730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"shN0KDhNuzfDMzR5pTu227Jek/i5NZDr11efmxtI8Io=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 15 Jul 2024 06:52:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-shN0KDhNuzfDMzR5pTu227Jek/i5NZDr11efmxtI8Io="
+        }
+      ]
+    },
+    {
+      "Route": "Files/19. Access Specifier and Encapsulation.pdf",
+      "AssetFile": "Files/19. Access Specifier and Encapsulation.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "465596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v52OhzQdzzkk7aS7/xnfuywc/zAS7zu4ZdpR8f+Ld2M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Aug 2024 04:35:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v52OhzQdzzkk7aS7/xnfuywc/zAS7zu4ZdpR8f+Ld2M="
+        }
+      ]
+    },
+    {
+      "Route": "Files/19. Access Specifier and Encapsulation.vgar82a10d.pdf",
+      "AssetFile": "Files/19. Access Specifier and Encapsulation.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "465596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v52OhzQdzzkk7aS7/xnfuywc/zAS7zu4ZdpR8f+Ld2M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Aug 2024 04:35:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vgar82a10d"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v52OhzQdzzkk7aS7/xnfuywc/zAS7zu4ZdpR8f+Ld2M="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/19. Access Specifier and Encapsulation.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Files/2. Environtment Setup.f58osrnc3g.pdf",
+      "AssetFile": "Files/2. Environtment Setup.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "371593"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q5dGEYXQbERFedp9i4hej3pINHJ40MG0klYGn2Tv17g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Jun 2024 16:26:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f58osrnc3g"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q5dGEYXQbERFedp9i4hej3pINHJ40MG0klYGn2Tv17g="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/2. Environtment Setup.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Files/2. Environtment Setup.pdf",
+      "AssetFile": "Files/2. Environtment Setup.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "371593"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q5dGEYXQbERFedp9i4hej3pINHJ40MG0klYGn2Tv17g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Jun 2024 16:26:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q5dGEYXQbERFedp9i4hej3pINHJ40MG0klYGn2Tv17g="
+        }
+      ]
+    },
+    {
+      "Route": "Files/20. Inheritence and Abstraction.4rgxg58e0c.pdf",
+      "AssetFile": "Files/20. Inheritence and Abstraction.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "574708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EBd3xGn6UP8lV3RfNHemR1dWNjrKsUxKHLmuZe7m8Pw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Sep 2024 09:49:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4rgxg58e0c"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EBd3xGn6UP8lV3RfNHemR1dWNjrKsUxKHLmuZe7m8Pw="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/20. Inheritence and Abstraction.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Files/20. Inheritence and Abstraction.pdf",
+      "AssetFile": "Files/20. Inheritence and Abstraction.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "574708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EBd3xGn6UP8lV3RfNHemR1dWNjrKsUxKHLmuZe7m8Pw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Sep 2024 09:49:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EBd3xGn6UP8lV3RfNHemR1dWNjrKsUxKHLmuZe7m8Pw="
+        }
+      ]
+    },
+    {
+      "Route": "Files/3. Syntax and Datatypes.pdf",
+      "AssetFile": "Files/3. Syntax and Datatypes.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "500861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BMazL7WgBmO/x891GOTOZDM3Uz9ia4E5xgM0C2Ny4TE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Jun 2024 16:51:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BMazL7WgBmO/x891GOTOZDM3Uz9ia4E5xgM0C2Ny4TE="
+        }
+      ]
+    },
+    {
+      "Route": "Files/3. Syntax and Datatypes.swihst1e7o.pdf",
+      "AssetFile": "Files/3. Syntax and Datatypes.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "500861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BMazL7WgBmO/x891GOTOZDM3Uz9ia4E5xgM0C2Ny4TE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Jun 2024 16:51:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "swihst1e7o"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BMazL7WgBmO/x891GOTOZDM3Uz9ia4E5xgM0C2Ny4TE="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/3. Syntax and Datatypes.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Files/4. Keywords, variables, constant, type casting, userinputs.pdf",
+      "AssetFile": "Files/4. Keywords, variables, constant, type casting, userinputs.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "283885"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Jun 2024 09:08:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ="
+        }
+      ]
+    },
+    {
+      "Route": "Files/4. Keywords, variables, constant, type casting, userinputs.yynfnsn90d.pdf",
+      "AssetFile": "Files/4. Keywords, variables, constant, type casting, userinputs.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "283885"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Jun 2024 09:08:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yynfnsn90d"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/4. Keywords, variables, constant, type casting, userinputs.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Files/7.Conditional Statements.nl2q14cg7a.pdf",
+      "AssetFile": "Files/7.Conditional Statements.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "453387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VX9RkMKivSbarrjgcra/e6UuVAWW4Tytk+rcvVA2Igk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Jun 2024 03:39:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nl2q14cg7a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VX9RkMKivSbarrjgcra/e6UuVAWW4Tytk+rcvVA2Igk="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/7.Conditional Statements.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Files/7.Conditional Statements.pdf",
+      "AssetFile": "Files/7.Conditional Statements.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "453387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VX9RkMKivSbarrjgcra/e6UuVAWW4Tytk+rcvVA2Igk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Jun 2024 03:39:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VX9RkMKivSbarrjgcra/e6UuVAWW4Tytk+rcvVA2Igk="
+        }
+      ]
+    },
+    {
+      "Route": "Files/8. Loops, for, while, do-while ...pdf",
+      "AssetFile": "Files/8. Loops, for, while, do-while ...pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "399891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4LynJxEuR5JmgnfJTb6bIvc0WctMYSwsevTpvCg/T7Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Jul 2024 05:17:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4LynJxEuR5JmgnfJTb6bIvc0WctMYSwsevTpvCg/T7Y="
+        }
+      ]
+    },
+    {
+      "Route": "Files/8. Loops, for, while, do-while ...s59y2anlco.pdf",
+      "AssetFile": "Files/8. Loops, for, while, do-while ...pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "399891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4LynJxEuR5JmgnfJTb6bIvc0WctMYSwsevTpvCg/T7Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Jul 2024 05:17:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s59y2anlco"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4LynJxEuR5JmgnfJTb6bIvc0WctMYSwsevTpvCg/T7Y="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/8. Loops, for, while, do-while ...pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Files/Class and Objects.4noxzv6j43.pdf",
+      "AssetFile": "Files/Class and Objects.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "605325"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AAZUOiytugfbxrrAlwefLluiHMrWtgvCiBRkAqQ4/hw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 Aug 2024 06:32:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4noxzv6j43"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AAZUOiytugfbxrrAlwefLluiHMrWtgvCiBRkAqQ4/hw="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Class and Objects.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Files/Class and Objects.pdf",
+      "AssetFile": "Files/Class and Objects.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "605325"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AAZUOiytugfbxrrAlwefLluiHMrWtgvCiBRkAqQ4/hw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 Aug 2024 06:32:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AAZUOiytugfbxrrAlwefLluiHMrWtgvCiBRkAqQ4/hw="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Methods.8iztkqg5ty.pdf",
+      "AssetFile": "Files/Methods.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "558015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ANVH6v51QnMqsbDA4QAndcmd9zGuGaUn6l6+M+dE8/o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 31 Jul 2024 02:50:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8iztkqg5ty"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ANVH6v51QnMqsbDA4QAndcmd9zGuGaUn6l6+M+dE8/o="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Methods.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Files/Methods.pdf",
+      "AssetFile": "Files/Methods.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "558015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ANVH6v51QnMqsbDA4QAndcmd9zGuGaUn6l6+M+dE8/o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 31 Jul 2024 02:50:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ANVH6v51QnMqsbDA4QAndcmd9zGuGaUn6l6+M+dE8/o="
+        }
+      ]
+    },
+    {
       "Route": "Files/biodata.docx",
       "AssetFile": "Files/biodata.docx",
       "Selectors": [],
@@ -81,6 +1065,88 @@
         {
           "Name": "label",
           "Value": "Files/biodata.docx"
+        }
+      ]
+    },
+    {
+      "Route": "Files/case.png",
+      "AssetFile": "Files/case.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+9zjU65Kp5HlhK9D6308Iu2nbEvdjHvkSnluWelBNVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 Aug 2024 14:34:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+9zjU65Kp5HlhK9D6308Iu2nbEvdjHvkSnluWelBNVk="
+        }
+      ]
+    },
+    {
+      "Route": "Files/case.xpqjxl2zgw.png",
+      "AssetFile": "Files/case.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+9zjU65Kp5HlhK9D6308Iu2nbEvdjHvkSnluWelBNVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 Aug 2024 14:34:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xpqjxl2zgw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+9zjU65Kp5HlhK9D6308Iu2nbEvdjHvkSnluWelBNVk="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/case.png"
         }
       ]
     },

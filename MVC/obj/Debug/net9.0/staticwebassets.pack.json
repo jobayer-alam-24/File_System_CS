@@ -5,8 +5,60 @@
       "PackagePath": "staticwebassets\\MVC.nk8e3srjs6.bundle.scp.css"
     },
     {
+      "Id": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\1. Introduction.pdf",
+      "PackagePath": "staticwebassets\\Files\\1. Introduction.pdf"
+    },
+    {
+      "Id": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\10. Array (Part-01).pdf",
+      "PackagePath": "staticwebassets\\Files\\10. Array (Part-01).pdf"
+    },
+    {
+      "Id": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\13. Strings.pdf",
+      "PackagePath": "staticwebassets\\Files\\13. Strings.pdf"
+    },
+    {
+      "Id": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\19. Access Specifier and Encapsulation.pdf",
+      "PackagePath": "staticwebassets\\Files\\19. Access Specifier and Encapsulation.pdf"
+    },
+    {
+      "Id": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\2. Environtment Setup.pdf",
+      "PackagePath": "staticwebassets\\Files\\2. Environtment Setup.pdf"
+    },
+    {
+      "Id": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\20. Inheritence and Abstraction.pdf",
+      "PackagePath": "staticwebassets\\Files\\20. Inheritence and Abstraction.pdf"
+    },
+    {
+      "Id": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\3. Syntax and Datatypes.pdf",
+      "PackagePath": "staticwebassets\\Files\\3. Syntax and Datatypes.pdf"
+    },
+    {
+      "Id": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\4. Keywords, variables, constant, type casting, userinputs.pdf",
+      "PackagePath": "staticwebassets\\Files\\4. Keywords, variables, constant, type casting, userinputs.pdf"
+    },
+    {
+      "Id": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\7.Conditional Statements.pdf",
+      "PackagePath": "staticwebassets\\Files\\7.Conditional Statements.pdf"
+    },
+    {
+      "Id": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\8. Loops, for, while, do-while ...pdf",
+      "PackagePath": "staticwebassets\\Files\\8. Loops, for, while, do-while ...pdf"
+    },
+    {
+      "Id": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\Class and Objects.pdf",
+      "PackagePath": "staticwebassets\\Files\\Class and Objects.pdf"
+    },
+    {
+      "Id": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\Methods.pdf",
+      "PackagePath": "staticwebassets\\Files\\Methods.pdf"
+    },
+    {
       "Id": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\biodata.docx",
       "PackagePath": "staticwebassets\\Files\\biodata.docx"
+    },
+    {
+      "Id": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\case.png",
+      "PackagePath": "staticwebassets\\Files\\case.png"
     },
     {
       "Id": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\membersdata.xlsx",

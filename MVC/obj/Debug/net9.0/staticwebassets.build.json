@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Y3AwXeSDzEIgC43HyaiXICQp3C1gn5xmWd2rbiPqYeE=",
+  "Hash": "BH/ZD+VNr2024Wg2kMlB842ZqNfcfAUE7X380CWiiUk=",
   "Source": "MVC",
   "BasePath": "_content/MVC",
   "Mode": "Default",
@@ -1590,6 +1590,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Files\\3. Syntax and Datatypes.pdf"
+    },
+    {
+      "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\4. Keywords, variables, constant, type casting, userinputs.pdf",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\File_System_CS\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "Files/4. Keywords, variables, constant, type casting, userinputs#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yynfnsn90d",
+      "Integrity": "5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\4. Keywords, variables, constant, type casting, userinputs.pdf"
     },
     {
       "Identity": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\7.Conditional Statements.pdf",
@@ -4209,6 +4230,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-BMazL7WgBmO/x891GOTOZDM3Uz9ia4E5xgM0C2Ny4TE="
+        }
+      ]
+    },
+    {
+      "Route": "Files/4. Keywords, variables, constant, type casting, userinputs.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\4. Keywords, variables, constant, type casting, userinputs.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "283885"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 18:46:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ="
+        }
+      ]
+    },
+    {
+      "Route": "Files/4. Keywords, variables, constant, type casting, userinputs.yynfnsn90d.pdf",
+      "AssetFile": "D:\\File_System_CS\\MVC\\wwwroot\\Files\\4. Keywords, variables, constant, type casting, userinputs.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "283885"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 18:46:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yynfnsn90d"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/4. Keywords, variables, constant, type casting, userinputs.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ="
         }
       ]
     },

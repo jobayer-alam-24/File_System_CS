@@ -577,6 +577,88 @@
       ]
     },
     {
+      "Route": "Files/4. Keywords, variables, constant, type casting, userinputs.pdf",
+      "AssetFile": "Files/4. Keywords, variables, constant, type casting, userinputs.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "283885"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 18:46:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ="
+        }
+      ]
+    },
+    {
+      "Route": "Files/4. Keywords, variables, constant, type casting, userinputs.yynfnsn90d.pdf",
+      "AssetFile": "Files/4. Keywords, variables, constant, type casting, userinputs.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "283885"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 18:46:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yynfnsn90d"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sE+5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ="
+        },
+        {
+          "Name": "label",
+          "Value": "Files/4. Keywords, variables, constant, type casting, userinputs.pdf"
+        }
+      ]
+    },
+    {
       "Route": "Files/7.Conditional Statements.nl2q14cg7a.pdf",
       "AssetFile": "Files/7.Conditional Statements.pdf",
       "Selectors": [],

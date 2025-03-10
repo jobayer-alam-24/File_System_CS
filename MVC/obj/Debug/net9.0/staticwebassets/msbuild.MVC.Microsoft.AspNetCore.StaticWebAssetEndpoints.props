@@ -108,6 +108,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"swihst1e7o"},{"Name":"integrity","Value":"sha256-BMazL7WgBmO/x891GOTOZDM3Uz9ia4E5xgM0C2Ny4TE="},{"Name":"label","Value":"_content/MVC/Files/3. Syntax and Datatypes.pdf"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"500861"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022BMazL7WgBmO/x891GOTOZDM3Uz9ia4E5xgM0C2Ny4TE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 18:43:38 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC/Files/4. Keywords, variables, constant, type casting, userinputs.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\4. Keywords, variables, constant, type casting, userinputs.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5sE\u002B5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"283885"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u00225sE\u002B5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 18:46:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC/Files/4. Keywords, variables, constant, type casting, userinputs.yynfnsn90d.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\4. Keywords, variables, constant, type casting, userinputs.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yynfnsn90d"},{"Name":"integrity","Value":"sha256-5sE\u002B5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ="},{"Name":"label","Value":"_content/MVC/Files/4. Keywords, variables, constant, type casting, userinputs.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"283885"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u00225sE\u002B5hXYKebB/uiys2DgDPjvWZvOzumdme7o72pRUuQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 18:46:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MVC/Files/7.Conditional Statements.nl2q14cg7a.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Files\7.Conditional Statements.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

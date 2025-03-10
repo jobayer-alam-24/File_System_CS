@@ -77,6 +77,16 @@ public class HomeController : Controller
         FileInfo info = new FileInfo(path);
         return View(info);
     }
+    public IActionResult Delete(string name)
+    {
+        string path = Path.Combine(_environment.WebRootPath, "Files/", name);
+        if(System.IO.File.Exists(path))
+        {
+            System.IO.File.Delete(path);
+            TempData["delete_messege"] = $"{name} is Deleted!";
+        }
+        return  RedirectToAction(nameof(Index));
+    }
     public IActionResult Privacy()
     {
         return View();

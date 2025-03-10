@@ -1,0 +1,15 @@
+D:\File_System_CS\CONSOLE\bin\Debug\net9.0\CONSOLE.exe
+D:\File_System_CS\CONSOLE\bin\Debug\net9.0\CONSOLE.deps.json
+D:\File_System_CS\CONSOLE\bin\Debug\net9.0\CONSOLE.runtimeconfig.json
+D:\File_System_CS\CONSOLE\bin\Debug\net9.0\CONSOLE.dll
+D:\File_System_CS\CONSOLE\bin\Debug\net9.0\CONSOLE.pdb
+D:\File_System_CS\CONSOLE\obj\Debug\net9.0\CONSOLE.GeneratedMSBuildEditorConfig.editorconfig
+D:\File_System_CS\CONSOLE\obj\Debug\net9.0\CONSOLE.AssemblyInfoInputs.cache
+D:\File_System_CS\CONSOLE\obj\Debug\net9.0\CONSOLE.AssemblyInfo.cs
+D:\File_System_CS\CONSOLE\obj\Debug\net9.0\CONSOLE.csproj.CoreCompileInputs.cache
+D:\File_System_CS\CONSOLE\obj\Debug\net9.0\CONSOLE.sourcelink.json
+D:\File_System_CS\CONSOLE\obj\Debug\net9.0\CONSOLE.dll
+D:\File_System_CS\CONSOLE\obj\Debug\net9.0\refint\CONSOLE.dll
+D:\File_System_CS\CONSOLE\obj\Debug\net9.0\CONSOLE.pdb
+D:\File_System_CS\CONSOLE\obj\Debug\net9.0\CONSOLE.genruntimeconfig.cache
+D:\File_System_CS\CONSOLE\obj\Debug\net9.0\ref\CONSOLE.dll

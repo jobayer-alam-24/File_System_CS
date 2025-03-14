@@ -87,6 +87,15 @@ public class HomeController : Controller
         }
         return  RedirectToAction(nameof(Index));
     }
+
+    public async Task<FileResult> Open(string name)
+    {
+        string path = Path.Combine(_environment.WebRootPath, "Files/", name);
+        byte[] contents = await System.IO.File.ReadAllBytesAsync(path);
+        Response.Headers["Content-Disposition"] = "inline; filename=" + name; 
+
+        return File(contents, "application/pdf");
+    }
     public IActionResult Privacy()
     {
         return View();
